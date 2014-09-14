@@ -1,8 +1,8 @@
 <html>
     <head>
-        All about Ismail
+        <title>All about Ismail</title>
     </head>
     <body>
-        It works
+        <h1>It works</h1>
     </body>
 </html>
