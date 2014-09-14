@@ -4,6 +4,7 @@
         <link rel="stylesheet" type="text/css" href="nidforstyle.css">
     </head>
     <body>
-        <h1>It works</h1>
+        <h1>Ismail Elouafiq</h1>
+        <div id='myphoto'><img src="images/photo_of_me.png" alt="ismail" style="width:150px;height:150px"></div>
     </body>
 </html>
